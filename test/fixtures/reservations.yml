@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  from: 2018-07-06 16:19:34
+  to: 2018-07-06 16:19:34
+  table: one
+
+two:
+  name: MyString
+  from: 2018-07-06 16:19:34
+  to: 2018-07-06 16:19:34
+  table: two
